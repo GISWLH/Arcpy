@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20221122</CreaDate><CreaTime>19593200</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\arcgis\desktop10.8\ArcToolbox\Toolboxes\3D Analyst Tools.tbx\RasterDomain" Date="20221122" Time="195932">RasterDomain D:\OneDrive\UCAS\courses\python2\final2\input\beijingDEM.tif D:\OneDrive\UCAS\courses\python2\final2\output\beijing.shp POLYGON</Process></lineage></DataProperties></Esri></metadata>

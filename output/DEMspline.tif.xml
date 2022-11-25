@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata xml:lang="zh"><Esri><CreaDate>20221122</CreaDate><CreaTime>20325700</CreaTime><ArcGISFormat>1.0</ArcGISFormat><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="d:\arcgis\desktop10.8\ArcToolbox\Toolboxes\3D Analyst Tools.tbx\Spline" Date="20221122" Time="203257">Spline D:\OneDrive\UCAS\courses\python2\final2\output\data.shp DEM D:\OneDrive\UCAS\courses\python2\final2\output\DEMspline.tif 0.00083333333 REGULARIZED 0.1 12</Process></lineage></DataProperties></Esri></metadata>
