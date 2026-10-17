@@ -1,3 +1,7 @@
+<!-- readme-visual-refresh:banner -->
+![Arcpy — hand-drawn project banner](assets/readme/banner.svg)
+<!-- /readme-visual-refresh:banner -->
+
 > Copyright © 2022 Longhao Wang hhuwlh@163.com All rights reserved.
 >
 > This work is licensed under the terms of the MIT license.  
@@ -27,3 +31,20 @@ Data description
 * MapID: The graphic illustration of number of map 
 * workspace: The mxd file.
 * LICENSE: Copyright © 2022 Longhao Wang hhuwlh@163.com All rights reserved.
+
+<!-- readme-visual-refresh:artwork-source -->
+[Editable banner artwork · Excalidraw](assets/readme/banner.excalidraw)
+<!-- /readme-visual-refresh:artwork-source -->
+
+
+<!-- readme-visual-refresh:result -->
+## Saved project output
+
+![Existing ArcPy-exported Beijing DEM map (J50E002007).](assets/readme/result.jpg)
+
+Existing ArcPy-exported Beijing DEM map (J50E002007).
+
+Historical project output, retained from the existing working files; it was not rerun for this documentation update.
+
+Source: `creat_map.py`.
+<!-- /readme-visual-refresh:result -->
